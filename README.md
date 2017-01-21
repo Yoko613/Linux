@@ -46,7 +46,7 @@
             head -n 行数 文件名 
             tail 文件名
             tail -n 行数 文件名
-#### Linux查找或搜索：
+### Linux查找或搜索：
     find 名【通配符完全匹配】
     grep 名【正则表达式的包含匹配】
     which命令名【命令位置】
